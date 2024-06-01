@@ -1,0 +1,20 @@
+{
+    "test_run": true,
+    "rerun_pbi": false,
+    "override_run_LSOA": true,
+    "use_corporate_reference": true,
+    "manual_ach": "2024-02-01",
+    "LSOA_year": "2021",
+    "age_limit": "120",
+    "Exclude_unknown_gender": "True",
+    "server": "",
+    "database": "",
+    "server_pds": "",
+    "database_pds": "",
+    "root": "",
+    "mapping_root": "",
+    "population_root": "",
+    "manual_reference_root": "",
+    "pcnfilename": "",
+    "prac10yrage_root": ""
+}
